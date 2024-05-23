@@ -1,0 +1,12 @@
+.item{
+    background-color: lightskyblue;
+    width:80vw;
+    margin:20px;
+}
+.heading{
+    font-size: 50px;
+
+}
+.description{
+    color:orange;
+}
